@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f05118208ea7764dc4386c63bf8d7d66\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\738bfcb3a6710259d0d945373eff9519\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c4ad55a30f1cc96edeaacf049a51cee8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8a2d72f8a0d2d2978eb56d3c28f437b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\1895c25f0f4b638bd23e9394f11b23e6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\608191968d2ccf0d49958f2f691dfb7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\91a6318e6a7330507187312818876272\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7c268c41cfbed0850310819a8503ef77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\13aa2481e2ee4e544b03328eb100e8e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34ba8449b50f2a144dfb3065ca53b354\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\594b1eab031a1a4dbcb6c102b0d64350\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2871e2c1587845dfeab6d1ad36f38bcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b15b412093adb09f102b492a25603a60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1b90ea74d80503c5be7e8071f6b538e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ccfa3549e683a9a1d412afd4e7af6688\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\91bf56d20d1214c4a995df4f055f718c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9217692f4fe25bbb1b4772ab7eaabdc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34d44efde8915329e88251eb6b68289a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3f3b4deb71b9119abe4ae061155586e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\37386b57b4cda1fd5fce2e6dcbd4c10a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\776679c70d8d8b47aeabc770b2421654\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\350f3e9370cca40889e5564f5e48b0c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e3461861fe89184f7a30e8bd838eabc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\2a0438c0006b599093383312cf449d7c\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7b4de15e13d70bdca10e058f4cc57bdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\97a1e390de47e5c694972bc2bad75891\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d4d287b2c0dc0345ac7c47f9990cb83d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\171e5337b2d8bc4aee70f2edde64e033\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6f33e39f894f3c6bdcdde6599d70eabd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6b5eae8e9551538b2f09de8f3a031bbf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f69dab508f8f3c8bdce9455b7a0ad63b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5128f95422ebc67970bc05186c0de0f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ee47dd52814241978eab8619f7bfa044\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:7:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f05118208ea7764dc4386c63bf8d7d66\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f05118208ea7764dc4386c63bf8d7d66\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c4ad55a30f1cc96edeaacf049a51cee8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c4ad55a30f1cc96edeaacf049a51cee8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\1895c25f0f4b638bd23e9394f11b23e6\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\1895c25f0f4b638bd23e9394f11b23e6\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\37386b57b4cda1fd5fce2e6dcbd4c10a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\37386b57b4cda1fd5fce2e6dcbd4c10a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\776679c70d8d8b47aeabc770b2421654\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\776679c70d8d8b47aeabc770b2421654\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\2a0438c0006b599093383312cf449d7c\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\2a0438c0006b599093383312cf449d7c\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\37386b57b4cda1fd5fce2e6dcbd4c10a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.pelayo.projects.githubcontributorslist.MainActivity
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:21:27-74
+service#com.pelayo.projects.githubcontributorslist.RetrieveContributors
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:25:9-57
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:25:18-54
+service#com.pelayo.projects.githubcontributorslist.RetrieveUser
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:26:18-46
+activity#com.pelayo.projects.githubcontributorslist.ContributorsActivity
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:28:19-55
+activity#com.pelayo.projects.githubcontributorslist.ContributorDetailsActivity
+ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml:29:19-61
+uses-sdk
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f05118208ea7764dc4386c63bf8d7d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f05118208ea7764dc4386c63bf8d7d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\738bfcb3a6710259d0d945373eff9519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\738bfcb3a6710259d0d945373eff9519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c4ad55a30f1cc96edeaacf049a51cee8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c4ad55a30f1cc96edeaacf049a51cee8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8a2d72f8a0d2d2978eb56d3c28f437b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8a2d72f8a0d2d2978eb56d3c28f437b4\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\1895c25f0f4b638bd23e9394f11b23e6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\1895c25f0f4b638bd23e9394f11b23e6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\608191968d2ccf0d49958f2f691dfb7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\608191968d2ccf0d49958f2f691dfb7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\91a6318e6a7330507187312818876272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\91a6318e6a7330507187312818876272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7c268c41cfbed0850310819a8503ef77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7c268c41cfbed0850310819a8503ef77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\13aa2481e2ee4e544b03328eb100e8e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\13aa2481e2ee4e544b03328eb100e8e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34ba8449b50f2a144dfb3065ca53b354\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34ba8449b50f2a144dfb3065ca53b354\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\594b1eab031a1a4dbcb6c102b0d64350\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\594b1eab031a1a4dbcb6c102b0d64350\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2871e2c1587845dfeab6d1ad36f38bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2871e2c1587845dfeab6d1ad36f38bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b15b412093adb09f102b492a25603a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b15b412093adb09f102b492a25603a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1b90ea74d80503c5be7e8071f6b538e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1b90ea74d80503c5be7e8071f6b538e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ccfa3549e683a9a1d412afd4e7af6688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ccfa3549e683a9a1d412afd4e7af6688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\91bf56d20d1214c4a995df4f055f718c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\91bf56d20d1214c4a995df4f055f718c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9217692f4fe25bbb1b4772ab7eaabdc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9217692f4fe25bbb1b4772ab7eaabdc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34d44efde8915329e88251eb6b68289a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34d44efde8915329e88251eb6b68289a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3f3b4deb71b9119abe4ae061155586e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3f3b4deb71b9119abe4ae061155586e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\37386b57b4cda1fd5fce2e6dcbd4c10a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\37386b57b4cda1fd5fce2e6dcbd4c10a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\776679c70d8d8b47aeabc770b2421654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\776679c70d8d8b47aeabc770b2421654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\350f3e9370cca40889e5564f5e48b0c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\350f3e9370cca40889e5564f5e48b0c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e3461861fe89184f7a30e8bd838eabc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e3461861fe89184f7a30e8bd838eabc6\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\2a0438c0006b599093383312cf449d7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\2a0438c0006b599093383312cf449d7c\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7b4de15e13d70bdca10e058f4cc57bdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7b4de15e13d70bdca10e058f4cc57bdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\97a1e390de47e5c694972bc2bad75891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\97a1e390de47e5c694972bc2bad75891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d4d287b2c0dc0345ac7c47f9990cb83d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d4d287b2c0dc0345ac7c47f9990cb83d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\171e5337b2d8bc4aee70f2edde64e033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\171e5337b2d8bc4aee70f2edde64e033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6f33e39f894f3c6bdcdde6599d70eabd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6f33e39f894f3c6bdcdde6599d70eabd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6b5eae8e9551538b2f09de8f3a031bbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6b5eae8e9551538b2f09de8f3a031bbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f69dab508f8f3c8bdce9455b7a0ad63b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f69dab508f8f3c8bdce9455b7a0ad63b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5128f95422ebc67970bc05186c0de0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a5128f95422ebc67970bc05186c0de0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ee47dd52814241978eab8619f7bfa044\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pelayo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ee47dd52814241978eab8619f7bfa044\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pelayo\Desktop\GitHubContributorsList\app\src\main\AndroidManifest.xml

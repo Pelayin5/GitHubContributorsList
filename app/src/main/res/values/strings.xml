@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHubContributorsList</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Add Repository Alert -->
+    <string name="repository_name_hint">Repository name</string>
+    <string name="repository_owner_hint">Repository owner</string>
+    <string name="new_repository_title">New repository</string>
+
+    <!-- Delete dialog -->
+    <string name="delete_dialog_title">Delete</string>
+    <string name="delete_dialog_message">Are you sure?</string>
+
+    <!-- Generic strings -->
+    <string name="network_error">Network error</string>
+    <string name="repo_error">Error loading repository</string>
+</resources>
